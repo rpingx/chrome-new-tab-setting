@@ -5,7 +5,12 @@ I want to be able to set a chrome new tab to a specific URL for work but don't w
 
 1. Click on the extension icon in the browser toolbar to open the options page.
 2. Enter your custom URL and click "Save" or press Enter.
+
+![preview of "options"](https://github.com/rpingx/chrome-new-tab-setting/raw/main/prev1.png)
+
 3. Open a new tab to see your custom URL.
+
+![preview of new tab redirecting to Github.com](https://github.com/rpingx/chrome-new-tab-setting/raw/main/prev2.png)
 
 ## Installation
 
