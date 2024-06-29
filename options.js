@@ -22,10 +22,8 @@ function saveUrl() {
 
     // Save the cleaned URL to sync storage, background.js sync listener should update the local storage
     chrome.storage.sync.set({ newTabUrl: url }, () => {
-        // chrome.storage.local.set({ newTabUrl: url }, () => {
-            messageDiv.textContent = 'New Tab URL saved!';
-            messageDiv.classList.add('message');
-        // });
+        messageDiv.textContent = 'New Tab URL saved!';
+        messageDiv.classList.add('message');
     });
 }
 

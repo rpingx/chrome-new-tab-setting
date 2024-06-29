@@ -17,11 +17,11 @@ chrome.storage.onChanged.addListener((changes, areaName) => {
 // Initial load of the local cache
 chrome.runtime.onStartup.addListener(() => {
     updateLocalCache();
-  });
-  
-  chrome.runtime.onInstalled.addListener(() => {
+});
+
+chrome.runtime.onInstalled.addListener(() => {
     updateLocalCache();
-  });
+});
 
 // Handle new tab creation
 chrome.tabs.onCreated.addListener((tab) => {
