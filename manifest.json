@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome New Tab Custom Url",
+  "version": "1.0",
+  "description": "Opens a custom URL in every new tab",
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "options.html"
+  },
+  "icons": {
+    "16": "chrome-new-tab-16.png",
+    "48": "chrome-new-tab-48.png",
+    "128": "chrome-new-tab-128.png"
+  }
+}
