@@ -1,6 +1,12 @@
 # chrome-new-tab-setting
 I want to be able to set a chrome new tab to a specific URL for work but don't want to use some random extension.
 
+## Usage
+
+1. Click on the extension icon in the browser toolbar to open the options page.
+2. Enter your custom URL and click "Save" or press Enter.
+3. Open a new tab to see your custom URL.
+
 ## Installation
 
 1. Clone or download the repository:
@@ -16,12 +22,6 @@ I want to be able to set a chrome new tab to a specific URL for work but don't w
 3. Enable Developer Mode by toggling the switch in the top right corner.
 
 4. Click on the "Load unpacked" button and select the directory where you cloned or downloaded the repository.
-
-## Usage
-
-1. Click on the extension icon in the browser toolbar to open the options page.
-2. Enter your custom URL and click "Save" or press Enter.
-3. Open a new tab to see your custom URL.
 
 ## Updating the Extension
 
