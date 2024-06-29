@@ -1,12 +1,5 @@
 document.getElementById('save').addEventListener('click', saveUrl);
 
-document.getElementById('url').addEventListener('keypress', (e) => {
-    if (e.key === 'Enter') {
-        saveUrl();
-    }
-});
-
-
 function saveUrl() {
     let url = document.getElementById('url').value.trim();
     const messageDiv = document.getElementById('message');
