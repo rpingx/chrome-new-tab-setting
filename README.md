@@ -5,7 +5,7 @@ I want to be able to set a chrome new tab to a specific URL for work but don't w
 
 1. Clone or download the repository:
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/rpingx/chrome-new-tab-setting.git
     ```
 
 2. Open the extension management page in your browser:
