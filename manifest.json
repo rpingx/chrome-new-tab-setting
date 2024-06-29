@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Chrome New Tab Custom Url",
+  "name": "Set New Tab URL",
   "version": "1.0",
-  "description": "Opens a custom URL in every new tab",
+  "description": "Opens a custom URL on every new tab",
   "permissions": [
     "storage",
     "tabs"
