@@ -12,7 +12,11 @@ I want to be able to set a chrome new tab to a specific URL for work but don't w
 
 ![preview of new tab redirecting to Github.com](https://github.com/rpingx/chrome-new-tab-setting/raw/main/prev2.png)
 
-## Installation
+## Installation from Chrome Web Store
+
+[Link to install through Chrome](https://chromewebstore.google.com/detail/set-new-tab-url/abjcnpnlahfkiakmbjjfdcabfljfnfck?hl=en)
+
+## Installation from repo
 
 1. Clone or download the repository:
     ```sh
@@ -28,7 +32,7 @@ I want to be able to set a chrome new tab to a specific URL for work but don't w
 
 4. Click on the "Load unpacked" button and select the directory where you cloned or downloaded the repository.
 
-## Updating the Extension
+## Updating the Extension from repo
 
 1. Pull the latest changes from the repository:
     ```sh
